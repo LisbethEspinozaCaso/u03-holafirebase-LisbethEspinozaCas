@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940122597407",
+    "project_id": "miloginfirebase-75ebf",
+    "storage_bucket": "miloginfirebase-75ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940122597407:android:6facb7eb55bdcb2f628d2a",
+        "android_client_info": {
+          "package_name": "com.example.miloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940122597407-n7oiv52eqbr4p6fk6l0f2n4tf59fnugm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzJG7jHI42Q3kzezdrzVUb8TILnCtrA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940122597407-n7oiv52eqbr4p6fk6l0f2n4tf59fnugm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
